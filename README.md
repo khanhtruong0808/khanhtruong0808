@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Khanh</h1>
 
-- 👨‍💻 I'll throw random stuff here [https://khanhtruong.vercel.app/](https://khanhtruong.vercel.app/)
+- 👨‍💻 I'll throw random stuff [here](https://khanhtruong.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
